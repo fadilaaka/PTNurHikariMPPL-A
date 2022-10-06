@@ -1,0 +1,68 @@
+||=================================================||
+||========== Resume Pertemuan 5 MPPL - A ==========||
+||=================================================||
+
+1. alasan memilih slide-slide tersebut?, 
+2. pokok bahasan dari slide-slide tersebut?, 
+3. serta bagaimana materi tersebut dapat diterapkan dalam project tim teman-teman?
+
+===> Resume PPT 03_Proses Perangkat Lunak dan Metrik Proyek <===
+1]  Proses perangkat lunak dan matrik proyek diperlukan karena dalam mengerjakan suatu 
+    proyek pihak pengembang perlu mengetahui apa saja proses dari perangkat lunak yang akan diciptakan. 
+2]  Proses pada proyek umumnya terbagi menjadi 2 kategori yaitu :
+      1.	Project Management Processes yang berkaitan dengan pengelolaan aktivitas dalam proyek
+      2.	Product-Oriented Processes yang berkaitan dengan aktivitas penciptaan produk dalam proyek
+    Proses manajemen proyek
+      1.	Proses Initiating atau aktivitas yang berkaitan dengan persiapan pelaksanaan proyek seperti penenentuan obyektif dan kesediaan stakeholder. 
+      2.	Proses planning  atau aktivitas yang berkaitan dengan perencanaan pelaksanaan priyek seperti lingkup, durasi, biaya dan kualitas. 
+          Dimana pada prinsipnya proses planning terbagi menjadi 2 yaitu : core processes dan facilitating processes.
+      3.	Proses Executing atau aktivitas mengkordinasikan seluruh sumber daya untuk menjalankan proyek sesuai target
+      4.	Proses Controlling atau aktivitas pengawasan agar seluruh kegiatan yang dilakukan dalam proyek tetap konsisten. 
+          Dimana proses ini berjalan berdampingna secara langsung dengan proses executing.
+      5.	Proses Closing atau aktivitas yang berisi persetujuan formal bahwa proyek telah berakhir dan menghasilkan output yang ditargetkan
+    Metrik perangkat lunak mengacu pada suatu jangkauan luas pengkuran perangkat lunak komputer. Pengukuran dapat digunakan di seluruh proyek 
+    perangkat lunak untuk membantu. perhitungan, kontrol kualitas, perkiraan produktivitas, dan kontrol proyek. 
+    Sehingga menghasilkan indicator yang memberi informasi untuk manajer proyek untuk menyesuaikan proses proyek dan produk yang ada.
+    Beberapa metrik dalam pengukuran perangkat lunak, antara lain:
+      •	Metrik Size-Oriented
+      •	Metrik Function-Oriented
+      •	Metrik Function Point yang Diperluas
+    Pengukuran berdasarkan ukuran dapat diukur berdasarkan jumlah kode, waktu yang diperlukan, hingga kesalahan yang ditemukan.
+    Pengukuran dapat dilakukan dari input (sumber daya manusia dan lingkungan yang dibutuhkan), output (kemampuan penyampaian atau produk kerja yang diciptakan), 
+    serta hasil (pengukuran yang menunjukan efektivitas kemampuan penyampaian).
+    Ada pula pengukuran berdasarkan fungsi (Function Point), yang ditentukan berdasarkan bagian bagian software yang dapat dihitung seperti : 
+    jumlah input pengguna, output pengguna, user inquiry, file serta external interface.
+3]  Materi ini perlu diterapkan kedalam project untuk mencegah terjadinya kesalahan 
+    pada proses pengerjaan dan perhitungan metrics proyek. Karena andai tidak diterapkan, 
+    maka bukan tidak mungkin akan terjadi banyak kesalahan manajerial sehingga proyek tidak dapat bejalan dengan baik. 
+    Selain itu tanpa adanya pengukuran, maka akan sulit untuk melakukan perbaikan karena tidak 
+    ada patokan mengenai apa yang dinilai kurang.
+
+===> Resume PPT 05_Perencanaan Proyek Perangkat Lunak <===  
+1]  Alasan memilih materi mengenai perencanaan proyek perangkat lunak adalah karena perencanaan 
+    merupakan hal yang penting dalam sebuah proyek karena dengan 
+    perencanaan yang baik dapat mencapai tujuan akhir dari proyek perangkat lunak dengan segala
+    keterbatasan yang ada seperti waktu dan dana yang disediakan.
+2]  Ruang lingkup proyek meliputi fungsi produk, kinerja produk, batasan produk, interface produk, reliabilitas produk,
+    estimasi SDM produk, estimasi biaya proyek, estimasi waktu, dan jadwal proyek
+3]  Materi ini bisa diterapkan didalam proyek yang kita laksanakan pada tahap awal proyek yaitu dapat
+    menentukan estimasi terhadap SDM, waktu dan biaya agar hasil akhir dari proyek dapat tercapai. Contohnya karena jika diterapkan maka proses pengerjaan proyek 
+    menjadi tidak teratur seperti kurangnya SDM yang di butuhkan,pengerjaan proyek yang tidak optimal karena tidak adanya jadwal pengerjaan, tidak matangnya
+    perhitungan biaya pengeluaran untuk kebutuhan proyek.
+
+===> Resume PPT 07_Manajemen Resiko Perangkat Lunak <===
+1]  Alasan mengapa mengambil ppt "Manajemen Resiko Proyek Perangkat Lunak" =  
+    Materi ini sangat penting untuk dibahas karena berguna untuk meminimalisir resiko kegagalan dalam sebuah proyek.
+2]  Pokok dari bahasan ini adalah menjelaskan bahwa ada beberapa hal pokok dari resiko pengembangan proyek : 
+            1. tidak adanya kejelasan akan kebutuhan perangkat lunak. 
+            2. tidak matangnya perhitungan mengenai biaya yang dibutuhkan. 
+            3. SDM yang tidak memadai yang mengakibatkan jadwal yang mengulur.
+    Adapula bahasan yang penting disini adalah kegiatan yang harus dilakukan dalam manajemen resiko :
+            1.  Risk Indentification = mengidentifikasi gejala resiko yang terjadi
+            2.  Risk Strategy = merancang suatu langkah untuk menanggulangi resiko
+            3  Risk Assessment = mengukur akibat yang akan di sebabkan pada resiko tersebut
+            4.  Risk Mitigation = melakukan mitigasi atau minimalisasi dari hasil penilaian resiko
+            5. Risk Reporting = laporan / catatan terhadap resiko yang dialami sehingga dapat digunakan untuk dasar analisis manajemen resiko berikutnya
+            6. Risk prediction = perkiraan akan resiko yang akan terjadi dalam pengembangan perangkat lunak
+3]  Materi ini diterapkan jika sedang merancang suatu proyek atau mengembangkan proyek agar tidak terjadinya kegagalan dalam aspek fungsional,
+    cost, dan jadwal pada pengembangan perangkat lunak
