@@ -24,10 +24,8 @@ Transformasi Website Kemdikbud.go.id
 <h2>Guru, Siswa, Belajar</h2>
 ![image](https://user-images.githubusercontent.com/69706091/210162742-84c0615a-9cf8-4c27-9089-04e6ec6479a6.png)
 
-
 <h2>Budaya</h2>
 ![image](https://user-images.githubusercontent.com/69706091/210162746-68afcd73-c145-402e-ae0b-9b4117c90b5b.png)
-![French fries 2](https://user-images.githubusercontent.com/69706091/210162872-746aad2a-ada8-4d83-a02d-88e646255571.png)
 
 <h2>Sekolah</h2>
 ![image](https://user-images.githubusercontent.com/69706091/210162754-67d7ebbe-2b87-47b9-a70b-e71e310d53d1.png)
@@ -41,8 +39,61 @@ Transformasi Website Kemdikbud.go.id
 
 <h1>SCRUM</h1>
 <h2>Sprint 1</h2>
+<ul>
+  <li>Waktu Pengerjaan : 22 September – 29 September</li>
+  <li>Product Backlog : Landing Page Website (Umum), Landing Page Siswa (Siswa), Landing Page Guru (Guru)</li>
+  <ul>
+    <li>Landing Page Website </li>
+    ![lpweb](https://user-images.githubusercontent.com/69706091/210162981-b58506d2-9778-4b55-a06a-dc9d031a84d6.png)
+
+    <li>Landing Page Siswa </li>
+    
+    <li>Landing Page Guru </li>
+    
+  </ul>
+</ul>
+
 <h2>Sprint 2</h2>
+<ul>
+  <li>Waktu Pengerjaan : </li>
+  <li>Product Backlog : </li>
+  <ul>
+    <li></li>
+  </ul>
+</ul>
+
 <h2>Sprint 3</h2>
+<ul>
+  <li>Waktu Pengerjaan : </li>
+  <li>Product Backlog : </li>
+  <ul>
+    <li></li>
+  </ul>
+</ul>
+
 <h2>Sprint 4</h2>
+<ul>
+  <li>Waktu Pengerjaan : </li>
+  <li>Product Backlog : </li>
+  <ul>
+    <li></li>
+  </ul>
+</ul>
+
 <h2>Sprint 5</h2>
+<ul>
+  <li>Waktu Pengerjaan : </li>
+  <li>Product Backlog : </li>
+  <ul>
+    <li></li>
+  </ul>
+</ul>
+
 <h2>Sprint 6</h2>
+<ul>
+  <li>Waktu Pengerjaan : </li>
+  <li>Product Backlog : </li>
+  <ul>
+    <li></li>
+  </ul>
+</ul>
