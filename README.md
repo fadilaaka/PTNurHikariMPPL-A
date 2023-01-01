@@ -22,7 +22,7 @@ Transformasi Website Kemdikbud.go.id
   <li>https://data.kemdikbud.go.id/</li>
 </ul>
 
-
+<br/>
 <h1>Usecase</h1>
 <h2>Guru, Siswa, Belajar</h2>
 
@@ -45,7 +45,7 @@ Transformasi Website Kemdikbud.go.id
 ![image](https://user-images.githubusercontent.com/69706091/210162763-9e674e09-fb5c-4293-af10-f987c97e9e6c.png)
 
 
-
+<br/>
 <h1>SCRUM</h1>
 <h2>Sprint 1</h2>
 Waktu Pengerjaan : 22 September – 29 September<br/>
@@ -105,7 +105,7 @@ Product Backlog : Dashboard Admin, Informasi Siswa, Informasi Guru, Informasi Se
 ![image](https://user-images.githubusercontent.com/69706091/210164562-bb83a6ac-a2f5-4882-bca9-fe7225ebb115.png)
 
 
-
+<br/>
 <h1>Kendala</h1>
 Salah satu kendala yang terjadi selama mengerjakan proyek ini adalah banyaknya riset yang diperlukan, banyaknya asset yang digunakan serta waktu pengerjaan yang terkadang tidak menentu karena sprint harian hamper tidak bisa dilaksanakan.
 
