@@ -24,8 +24,10 @@ Transformasi Website Kemdikbud.go.id
 <h2>Guru, Siswa, Belajar</h2>
 ![image](https://user-images.githubusercontent.com/69706091/210162742-84c0615a-9cf8-4c27-9089-04e6ec6479a6.png)
 
+
 <h2>Budaya</h2>
 ![image](https://user-images.githubusercontent.com/69706091/210162746-68afcd73-c145-402e-ae0b-9b4117c90b5b.png)
+![French fries 2](https://user-images.githubusercontent.com/69706091/210162872-746aad2a-ada8-4d83-a02d-88e646255571.png)
 
 <h2>Sekolah</h2>
 ![image](https://user-images.githubusercontent.com/69706091/210162754-67d7ebbe-2b87-47b9-a70b-e71e310d53d1.png)
