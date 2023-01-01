@@ -109,3 +109,21 @@ Product Backlog : Dashboard Admin, Informasi Siswa, Informasi Guru, Informasi Se
 <h1>Kendala</h1>
 Salah satu kendala yang terjadi selama mengerjakan proyek ini adalah banyaknya riset yang diperlukan, banyaknya asset yang digunakan serta waktu pengerjaan yang terkadang tidak menentu karena sprint harian hamper tidak bisa dilaksanakan.
 
+<br/>
+<h1>Dokumentasi Pengerjaan</h1>
+
+![image](https://user-images.githubusercontent.com/69706091/210164632-763be453-2141-4b2f-adf1-93feb7065b47.png)
+
+![image](https://user-images.githubusercontent.com/69706091/210164638-98496c41-37bc-4d2a-8b35-91f805ac3749.png)
+
+![image](https://user-images.githubusercontent.com/69706091/210164644-74f5d0d4-7332-4e2b-bbde-a6c54279d00b.png)
+
+![image](https://user-images.githubusercontent.com/69706091/210164648-d0b8df32-d0e5-43f1-ae05-f577e083c57c.png)
+
+![image](https://user-images.githubusercontent.com/69706091/210164652-99b167a3-c290-468e-8881-a4dbbb0e79f4.png)
+
+![image](https://user-images.githubusercontent.com/69706091/210164657-a758bd09-f558-4139-95df-f7b3729170d0.png)
+
+![image](https://user-images.githubusercontent.com/69706091/210164658-1d6e9a7f-4e66-49cc-a757-77e4dc54dd3d.png)
+
+![image](https://user-images.githubusercontent.com/69706091/210164662-8c5324ab-df32-4f47-93c4-c1db7fe13db0.png)
