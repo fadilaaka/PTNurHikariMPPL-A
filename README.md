@@ -21,82 +21,87 @@ Transformasi Website Kemdikbud.go.id
 </ul>
 
 
-![lpweb](https://user-images.githubusercontent.com/69706091/210163064-c2b9676d-af8c-4b67-b19e-4cffa02819bd.png)
-
 <h1>Usecase</h1>
 <h2>Guru, Siswa, Belajar</h2>
+
 ![image](https://user-images.githubusercontent.com/69706091/210162742-84c0615a-9cf8-4c27-9089-04e6ec6479a6.png)
 
 <h2>Budaya</h2>
+
 ![image](https://user-images.githubusercontent.com/69706091/210162746-68afcd73-c145-402e-ae0b-9b4117c90b5b.png)
 
 <h2>Sekolah</h2>
+
 ![image](https://user-images.githubusercontent.com/69706091/210162754-67d7ebbe-2b87-47b9-a70b-e71e310d53d1.png)
 
 <h2>Umum</h2>
+
 ![image](https://user-images.githubusercontent.com/69706091/210162759-5aec3475-a171-4e8c-8931-f6a41f5a41e2.png)
 
 <h2>Admin</h2>
+
 ![image](https://user-images.githubusercontent.com/69706091/210162763-9e674e09-fb5c-4293-af10-f987c97e9e6c.png)
 
 
 <h1>SCRUM</h1>
 <h2>Sprint 1</h2>
-<ul>
-  <li>Waktu Pengerjaan : 22 September – 29 September</li>
-  <li>Product Backlog : Landing Page Website (Umum), Landing Page Siswa (Siswa), Landing Page Guru (Guru)</li>
-  <ul>
-    <li>Landing Page Website </li>
-    ![lpweb](https://user-images.githubusercontent.com/69706091/210162981-b58506d2-9778-4b55-a06a-dc9d031a84d6.png)
+Waktu Pengerjaan : 22 September – 29 September<br/>
+Product Backlog : Landing Page Website (Umum), Landing Page Siswa (Siswa), Landing Page Guru (Guru)
 
-    <li>Landing Page Siswa </li>
-    
-    <li>Landing Page Guru </li>
-    
-  </ul>
-</ul>
+![image](https://user-images.githubusercontent.com/69706091/210164386-e8845b51-368d-46c2-89fd-f0b856a5baa8.png)
 
+![image](https://user-images.githubusercontent.com/69706091/210164491-824cb57e-d588-4053-bb8d-343ba73bb79d.png)
+
+![image](https://user-images.githubusercontent.com/69706091/210164493-5c942ae9-ef54-4eda-a495-5a9eea7b47eb.png)
+
+  
 <h2>Sprint 2</h2>
-<ul>
-  <li>Waktu Pengerjaan : </li>
-  <li>Product Backlog : </li>
-  <ul>
-    <li></li>
-  </ul>
-</ul>
+Waktu Pengerjaan : 30 September – 13 Oktober<br/>
+Product Backlog : Landing Page Belajar (Belajar), Login Guru (Guru), Login Siswa (Siswa)
+
+![image](https://user-images.githubusercontent.com/69706091/210164513-85b2886b-0c59-4ea7-b037-ac9ea1ee1301.png)
+
+![image](https://user-images.githubusercontent.com/69706091/210164515-43046763-17dc-4ce7-abbf-0b8cc899bcf8.png)
+
+![image](https://user-images.githubusercontent.com/69706091/210164519-98a82340-c75b-413c-90a4-bf7a364e8efc.png)
+
 
 <h2>Sprint 3</h2>
-<ul>
-  <li>Waktu Pengerjaan : </li>
-  <li>Product Backlog : </li>
-  <ul>
-    <li></li>
-  </ul>
-</ul>
+Waktu Pengerjaan : 14 Oktober – 27 Oktober<br/>
+Product Backlog : Dashboard Belajar Guru, Bahan Ajar, Halaman Sertifikasi (Guru), Berita, Pengumuman (Umum)
+
+![image](https://user-images.githubusercontent.com/69706091/210164527-18052db6-09d0-4dd5-8337-5fa4fda0aa86.png)
+
+![image](https://user-images.githubusercontent.com/69706091/210164528-3df6453c-338b-4d7e-a77a-bd1d3d0ed1c4.png)
+
 
 <h2>Sprint 4</h2>
-<ul>
-  <li>Waktu Pengerjaan : </li>
-  <li>Product Backlog : </li>
-  <ul>
-    <li></li>
-  </ul>
-</ul>
+Waktu Pengerjaan : 28 Oktober – 8 November<br/>
+Product Backlog : Materi, Soal Latihan, Video Learning, Upload Materi, Event Guru (Belajar), NISN, Beasiswa, Dashboard Siswa (Siswa)
+
+![image](https://user-images.githubusercontent.com/69706091/210164538-6e410276-0796-4bb7-81d8-8cae6a937c5d.png)
+
+![image](https://user-images.githubusercontent.com/69706091/210164539-7423784a-6eff-4999-a103-7ba84658e3fa.png)
+
 
 <h2>Sprint 5</h2>
-<ul>
-  <li>Waktu Pengerjaan : </li>
-  <li>Product Backlog : </li>
-  <ul>
-    <li></li>
-  </ul>
-</ul>
+Waktu Pengerjaan : 9 November – 14 Desember<br/>
+Product Backlog : Landing Page Sekolah, Cari Sekolah, Informasi Sekolah (Sekolah), Landing Page Budaya, Cari Budaya, Informasi Budaya (Budaya), Hubungi Kami, Acara, KBBI (Umum)
+
+![image](https://user-images.githubusercontent.com/69706091/210164548-0f3c15c0-0680-49aa-b94e-0b21142f35fd.png)
+
+![image](https://user-images.githubusercontent.com/69706091/210164552-618d356c-5a6c-420f-9ecb-3b479fd7c2bf.png)
+
+![image](https://user-images.githubusercontent.com/69706091/210164555-255e5b97-24ed-49ca-9a6f-62008cabafe2.png)
+
 
 <h2>Sprint 6</h2>
-<ul>
-  <li>Waktu Pengerjaan : </li>
-  <li>Product Backlog : </li>
-  <ul>
-    <li></li>
-  </ul>
-</ul>
+Waktu Pengerjaan : 15 Desember – 29 Desember<br/>
+Product Backlog : Dashboard Admin, Informasi Siswa, Informasi Guru, Informasi Sekolah (Admin)
+
+![image](https://user-images.githubusercontent.com/69706091/210164562-bb83a6ac-a2f5-4882-bca9-fe7225ebb115.png)
+
+
+<h1>Kendala</h1>
+Salah satu kendala yang terjadi selama mengerjakan proyek ini adalah banyaknya riset yang diperlukan, banyaknya asset yang digunakan serta waktu pengerjaan yang terkadang tidak menentu karena sprint harian hamper tidak bisa dilaksanakan.
+
