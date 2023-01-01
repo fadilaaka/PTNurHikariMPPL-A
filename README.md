@@ -1,6 +1,7 @@
 # PT. Nur Hikari - MPPL A
 Transformasi Website Kemdikbud.go.id
 
+
 <h1>Anggota Kelompok</h1>
 <ul>
   <li>Agus Tri Adiana - 1207050005</li>
@@ -8,6 +9,7 @@ Transformasi Website Kemdikbud.go.id
   <li>Adi Pratama Putra - 1207050140</li>
   <li>Dani Ali Kinan - 1207050139</li>
 </ul>
+
 
 <h1>Riset Data Statistik</h1>
 <ul>
@@ -43,6 +45,7 @@ Transformasi Website Kemdikbud.go.id
 ![image](https://user-images.githubusercontent.com/69706091/210162763-9e674e09-fb5c-4293-af10-f987c97e9e6c.png)
 
 
+
 <h1>SCRUM</h1>
 <h2>Sprint 1</h2>
 Waktu Pengerjaan : 22 September – 29 September<br/>
@@ -54,7 +57,7 @@ Product Backlog : Landing Page Website (Umum), Landing Page Siswa (Siswa), Landi
 
 ![image](https://user-images.githubusercontent.com/69706091/210164493-5c942ae9-ef54-4eda-a495-5a9eea7b47eb.png)
 
-  
+ 
 <h2>Sprint 2</h2>
 Waktu Pengerjaan : 30 September – 13 Oktober<br/>
 Product Backlog : Landing Page Belajar (Belajar), Login Guru (Guru), Login Siswa (Siswa)
@@ -100,6 +103,7 @@ Waktu Pengerjaan : 15 Desember – 29 Desember<br/>
 Product Backlog : Dashboard Admin, Informasi Siswa, Informasi Guru, Informasi Sekolah (Admin)
 
 ![image](https://user-images.githubusercontent.com/69706091/210164562-bb83a6ac-a2f5-4882-bca9-fe7225ebb115.png)
+
 
 
 <h1>Kendala</h1>
