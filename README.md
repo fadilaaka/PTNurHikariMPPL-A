@@ -14,7 +14,6 @@ Transformasi Website Kemdikbud.go.id
 <h1>Riset Data Statistik</h1>
 <ul>
   <li>https://pd.data.kemdikbud.go.id/index.php?r=site/data</li>
-  <li>https://pd.data.kemdikbud.go.id/index.php?r=site/data</li>
   <li>https://dataindonesia.id/ragam/detail/indonesia-miliki-331-juta-guru-pada-20222023-terbanyak-di-sd</li>
   <li>https://databoks.katadata.co.id/datapublish/2022/01/25/ada-336-juta-guru-dan-tenaga-kependidikan-pada-awal-2022</li>
   <li>https://www.bps.go.id/indikator/indikator/view_data_pub/0000/api_pub/a1lFcnlHNXNYMFlueG8xL0ZOZnU0Zz09/da_04/1</li>
@@ -106,10 +105,6 @@ Product Backlog : Dashboard Admin, Informasi Siswa, Informasi Guru, Informasi Se
 
 
 <br/>
-<h1>Kendala</h1>
-Salah satu kendala yang terjadi selama mengerjakan proyek ini adalah banyaknya riset yang diperlukan, banyaknya asset yang digunakan serta waktu pengerjaan yang terkadang tidak menentu karena sprint harian hamper tidak bisa dilaksanakan.
-
-<br/>
 <h1>Dokumentasi Pengerjaan</h1>
 
 ![image](https://user-images.githubusercontent.com/69706091/210164632-763be453-2141-4b2f-adf1-93feb7065b47.png)
@@ -127,3 +122,8 @@ Salah satu kendala yang terjadi selama mengerjakan proyek ini adalah banyaknya r
 ![image](https://user-images.githubusercontent.com/69706091/210164658-1d6e9a7f-4e66-49cc-a757-77e4dc54dd3d.png)
 
 ![image](https://user-images.githubusercontent.com/69706091/210164662-8c5324ab-df32-4f47-93c4-c1db7fe13db0.png)
+
+
+<br/>
+<h1>Kendala</h1>
+Salah satu kendala yang terjadi selama mengerjakan proyek ini adalah banyaknya riset yang diperlukan, banyaknya asset yang digunakan serta waktu pengerjaan yang terkadang tidak menentu karena sprint harian hamper tidak bisa dilaksanakan.
