@@ -5,6 +5,8 @@ Link Video Youtube : https://youtu.be/T6I5bT_XjY0
 
 Link 2 Laporan : https://drive.google.com/drive/folders/1JaElF5iOyZ7AWQ917rAlkgvd1ccd8c0m?usp=sharing
 
+Link Figma : https://www.figma.com/file/VbeRMGv3ZjRXNexwO2lavv/Website-Kemendikbud?node-id=0%3A1&t=uTPSvVxczX7rRIYB-1
+
 <h1>Anggota Kelompok</h1>
 <ul>
   <li>Agus Tri Adiana - 1207050005</li>
