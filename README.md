@@ -2,6 +2,7 @@
 Transformasi Website Kemdikbud.go.id
 
 Link Video Youtube : https://youtu.be/T6I5bT_XjY0
+Link 2 Laporan : https://drive.google.com/drive/folders/1JaElF5iOyZ7AWQ917rAlkgvd1ccd8c0m?usp=sharing
 
 <h1>Anggota Kelompok</h1>
 <ul>
